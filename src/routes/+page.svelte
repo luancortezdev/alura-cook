@@ -1,3 +1,7 @@
+<script lang="ts">
+  import "../app.css";
+</script>
+
 <svelte:head>
   <title>Alura Cook - Home</title>
 </svelte:head>
@@ -8,3 +12,5 @@
 </p>
 
 <a href="/receitas">Ir para as receitas</a>
+
+<img src="/imagens/receitas/panqueca.png" alt="panqueca" />
